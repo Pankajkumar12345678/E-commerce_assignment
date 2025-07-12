@@ -55,13 +55,13 @@ npm run dev
 
 # 💡 Usage
 
-## 3 Browse or search for products
+ Browse or search for products
 
-## Switch between Grid and List views
+ Switch between Grid and List views
 
-## Add items to your cart
+ Add items to your cart
 
-## Proceed to checkout and pay securely
+ Proceed to checkout and pay securely
 
-## Receive confirmation with order summary
+ Receive confirmation with order summary
 
